@@ -1,1 +1,1 @@
-# logger-development for ClownFish Voice Changer logs
+# logger-development for ClownFish Voice Changer app
